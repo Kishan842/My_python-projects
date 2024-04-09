@@ -1,9 +1,11 @@
-print("\t\t\t\t\tWelcome to Red Bus🙏🏻(●'◡'●)")
+print("\t\t\t\t\t-----------------------------------")
+print("\t\t\t\t\t\tWelcome to Red Bus")
+print("\t\t\t\t\t-----------------------------------")
 travelling_Pasanger = input("Do you Travel in this Bus, Yes or No: ")
 travelers = []
 
 while travelling_Pasanger.lower() == "yes":
-    num = int(input("Inter The Number of people Traveling: "))
+    num = int(input("\n\tInter The Number of people Traveling: "))
 
     for _ in range(1, num + 1):
         Pasanger_name = input("\tName: ")
