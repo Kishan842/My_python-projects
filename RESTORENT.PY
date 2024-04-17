@@ -28,10 +28,7 @@ Restaurant_Menu = {
     "Mix Puri Sabji": 200
 }
 
-print(" 1. Pizza: Rs.350\n 2. Pasta: Rs.650\n 3. Burger: Rs.120\n 4. Coffee: Rs.75\n 5. Tea Rs.20\n 6. Bhajiya: Rs.300\n 7. Potato Sev: Rs.250\n 
-8. Manchurian Noodles: Rs.280\n 9. Veg Rice: Rs.250\n 10. Veg Sorma: Rs.70\n 11. Red Pantis: Rs.230\n 12. Veg Biriyani: Rs.180\n 13. Chana Dhokla: Rs.210\n 
-14. Chart: Rs.80\n 15. Vada pav: Rs.35\n 16. Jalebi: Rs.465\n 17. Mix Pulav: Rs.450\n 18. Malai Paneer: Rs.400\n 19. Dahi Bhalla: Rs.120\n 
-20. Mix Puri Sabji: Rs.200")
+print(" 1. Pizza: Rs.350\n 2. Pasta: Rs.650\n 3. Burger: Rs.120\n 4. Coffee: Rs.75\n 5. Tea Rs.20\n 6. Bhajiya: Rs.300\n 7. Potato Sev: Rs.250\n 8. Manchurian Noodles: Rs.280\n 9. Veg Rice: Rs.250\n 10. Veg Sorma: Rs.70\n 11. Red Pantis: Rs.230\n 12. Veg Biriyani: Rs.180\n 13. Chana Dhokla: Rs.210\n 14. Chart: Rs.80\n 15. Vada pav: Rs.35\n 16. Jalebi: Rs.465\n 17. Mix Pulav: Rs.450\n 18. Malai Paneer: Rs.400\n 19. Dahi Bhalla: Rs.120\n 20. Mix Puri Sabji: Rs.200")
 
 Total_Order_Amount = 0
 Order_Item = input("\n\tEnter the Food-Name You want to Order : ")
